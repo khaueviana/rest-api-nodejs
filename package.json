@@ -1,7 +1,7 @@
 {
-  "name": "simple-web-service-node",
+  "name": "simple-rest-api-nodejs",
   "version": "1.0.0",
-  "description": "Simple WS Node.Js",
+  "description": "Simple REST API Node.js",
   "main": "server.js",
   "dependencies": {
         "express": "~4.0.0",
