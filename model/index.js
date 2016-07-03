@@ -1,0 +1,1 @@
+var Bear = require('./bear');
