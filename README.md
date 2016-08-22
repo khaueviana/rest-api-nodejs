@@ -1,9 +1,9 @@
-Simple RESTful API com Node.Js
+Simple RESTful API with Node.Js
 ---------------------------------------
 
-Exemplo da criação de um web service REST com Node.Js, com base no artigo publicado scotch.io (https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4).
+Example of creating a REST web service with Node.js , based on the article published scotch.io (https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4).
 
-Para esse projeto foram utilizadas as seguintes tecnologias: 
+For this project the following technologies have been used:
 
 ***ExpressJS*** - http://expressjs.com/
 
